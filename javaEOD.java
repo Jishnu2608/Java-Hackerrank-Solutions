@@ -19,5 +19,6 @@ public class javaEOD {
             i=i+1;
             
         }while(s!=null);
+        sc.close();
     }
 }
