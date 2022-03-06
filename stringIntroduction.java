@@ -7,6 +7,7 @@ public class stringIntroduction {
         Scanner sc=new Scanner(System.in);
         String A = sc.next();
         String B = sc.next();
+        
         sc.close();
         
         System.out.println( A.length() + B.length() );
