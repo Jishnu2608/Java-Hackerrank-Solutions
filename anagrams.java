@@ -26,10 +26,11 @@ public class anagrams {
         return true;
     }
 
-    *********************************************
-    //Anagram by converting String into Character Array.
+***********************************************************************************
+//Anagram by converting String into Character Array.
+//Another Method
 
-    import java.util.*;
+import java.util.*;
 
 class Main {
   public static void main(String[] args) {
