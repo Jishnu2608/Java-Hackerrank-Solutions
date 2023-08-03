@@ -6,13 +6,9 @@ This repository contains my solutions to the Java questions in the Hackerrank do
 
 In this Hackerrank Java domain, I have solved a variety of coding problems to demonstrate my proficiency in Java programming. The questions cover different concepts and algorithms, allowing me to showcase my problem-solving skills and understanding of the Java programming language.
 
-## Technologies
-
-- Java
-
 ## Solutions
 
-I have provided the solutions to each question in separate Java files. You can find the solutions in the "src" directory. Each file is named after the corresponding question, making it easy to locate the solution you are interested in.
+I have provided the solutions to each question in separate Java files. Each file is named after the corresponding question, making it easy to locate the solution you are interested in.
 
 ## Usage
 
