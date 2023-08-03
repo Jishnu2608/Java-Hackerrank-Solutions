@@ -2,15 +2,6 @@
 
 This repository contains my solutions to the Java questions in the Hackerrank domain. I have completed all the questions in the domain and provided my solutions for reference.
 
-## Table of Contents
-
-- [Description](#description)
-- [Technologies](#technologies)
-- [Solutions](#solutions)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Description
 
 In this Hackerrank Java domain, I have solved a variety of coding problems to demonstrate my proficiency in Java programming. The questions cover different concepts and algorithms, allowing me to showcase my problem-solving skills and understanding of the Java programming language.
